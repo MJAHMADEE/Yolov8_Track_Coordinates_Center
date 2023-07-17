@@ -10,6 +10,6 @@ Yolov8_Track_Coordinates_Center
 
 <html>
 <body>
-<img src="https://github.com/MJAHMADEE/Yolov8_Track_Coordinates_Center/blob/main/coordinates.gif" loop="true">
+<img src="https://github.com/MJAHMADEE/Yolov8_Track_Coordinates_Center/blob/main/centers.mp4" loop="true">
 </body>
 </html>
